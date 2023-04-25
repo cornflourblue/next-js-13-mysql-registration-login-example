@@ -1,5 +1,5 @@
-# next-js-13-mongodb-registration-login-example
+# next-js-13-mysql-registration-login-example
 
-Next.js 13 + MongoDB - User Registration and Login Example
+Next.js 13 + MySQL - User Registration and Login Example
 
-Documentation at https://jasonwatmore.com/next-js-13-mongodb-user-registration-and-login-tutorial-with-example-app
+Documentation at https://jasonwatmore.com/next-js-13-mysql-user-registration-and-login-tutorial-with-example-app
