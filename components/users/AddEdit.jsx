@@ -77,7 +77,7 @@ function AddEdit(props) {
                 <div className="mb-3 col">
                     <label className="form-label">Username</label>
                     <input name="username" type="text" {...register('username')} className={`form-control ${errors.username ? 'is-invalid' : ''}`} />
-                    <div className="invalid-feedback">{errors.email?.message}</div>
+                    <div className="invalid-feedback">{errors.username?.message}</div>
                 </div>
                 <div className="mb-3 col">
                     <label className="form-label">
